@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mofang
 
 > A Vue.js project
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# emofang
+e盘魔方项目
+>>>>>>> f567b8d6a89180a4a38b957b8ae3b9c7b5102aef
